@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrahmed-swe&label=Profile%20views&color=0e75b6&style=flat" alt="amrahmed-swe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amr ahmed(swe)" target="blank"><img src="https://img.shields.io/twitter/follow/amr ahmed(swe)?logo=twitter&style=for-the-badge" alt="amr ahmed(swe)" /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/AmrSiri" target="blank"><img src="https://img.shields.io/twitter/follow/AmrSiri?logo=twitter&style=for-the-badge" alt="amr ahmed(swe)" /></a> </p>
 - 🔭 I’m currently working on **Mortgage backed securities prepayment risk using machine learning models**
 
 - 🌱 I’m currently learning **CNN and RNN**
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **aamr91437@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Wbgy2rtMEXRReR9QArrDzdF57zQzY4w/view?usp=sharing](https://drive.google.com/file/d/19Wbgy2rtMEXRReR9QArrDzdF57zQzY4w/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/19Wbgy2rtMEXRReR9QArrDzdF57zQzY4w/view?usp=sharing)
 
 - ⚡ Fun fact **I love PlayStation**
 
