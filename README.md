@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amrahmed-swe?tab=repositories](https://github.com/amrahmed-swe?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/amrahmed-swe?tab=repositories)
 
 - 💬 Ask me about **Classic Machine learning-ANN-React Native-Python**
 
